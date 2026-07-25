@@ -20,9 +20,9 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
 
 <br>
 
-*Hope we can have a good time.* ✨
+*May your bugs be few and your coffee strong.* ☕
 
-*希望我们相处愉快。* ✨
+*愿 bug 少少，咖啡浓浓。* ☕
 
 </div>
 
