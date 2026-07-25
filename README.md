@@ -1,4 +1,4 @@
-# Hi, I'm 祈岚 👋
+# Hi, I'm @HaoyueQin 👋
 
 <div align="center">
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-我叫祈岚，北京航空航天大学交通科学与工程学院的本科生。喜欢福瑞（furry）和铁路，对交通系统有浓厚兴趣，目前正在探索 AI、agent 等方向。
+我叫 @HaoyueQin，北京航空航天大学交通科学与工程学院的本科生。喜欢福瑞（furry）和铁路，对交通系统有浓厚兴趣，目前正在探索 AI、agent 等方向。
 
-I'm HaoyueQin, an undergraduate at BUAA's School of Transportation Science and Engineering. Into furry and railways, fascinated by transportation systems, and currently exploring AI and agents.
+I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and Engineering. Into furry and railways, fascinated by transportation systems, and currently exploring AI and agents.
 
 <br>
 
