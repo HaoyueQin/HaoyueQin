@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.65845807706773" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="309.65845807706773" y="0" width="104.93529212593319" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="414.5937502030009" y="0" width="16.499124916278127" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.0928751192791" y="0" width="11.877205872548561" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="442.9700809918276" y="0" width="7.601705333434991" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="450.5717863252626" y="0" width="3.9012972573416262" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.47308358260426" y="0" width="3.5973684921310847" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.07045207473533" y="0" width="1.9295479252646477" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.5347142965204" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="306.5347142965204" y="0" width="103.87673564995693" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.4114499464773" y="0" width="20.613112140655584" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.0245620871329" y="0" width="11.757392100287833" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="442.78195418742075" y="0" width="7.525021557689516" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="450.30697574511026" y="0" width="4.197548817230674" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.5045245623409" y="0" width="3.5610792929811144" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.0656038553221" y="0" width="1.9343961446779174" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>11.8 MB</div>
-                                <div>67.32%</div>
+                                <div>66.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,8 +52,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>629 kB</div>
-                                <div>3.59%</div>
+                                <div>794 kB</div>
+                                <div>4.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,7 +65,7 @@
                             </div>
                             <small>
                                 <div>290 kB</div>
-                                <div>1.65%</div>
+                                <div>1.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -77,7 +77,7 @@
                             </div>
                             <small>
                                 <div>137 kB</div>
-                                <div>0.78%</div>
+                                <div>0.77%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>4 MB</div>
-                                <div>22.81%</div>
+                                <div>22.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>453 kB</div>
-                                <div>2.58%</div>
+                                <div>2.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,8 +114,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>148 kB</div>
-                                <div>0.85%</div>
+                                <div>161 kB</div>
+                                <div>0.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,7 +126,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>73.6 kB</div>
+                                <div>74.5 kB</div>
                                 <div>0.42%</div>
                             </small>
                         </div>
@@ -164,7 +164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AI-Galaxy-GPU/dsh-sound</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepSeek Harness（DSH）Web 端插件：回合完成、审批、提问、计划评审、目标受阻、任务失败各有独立提示音与音量，内置合成音 / 静音 / 本地音频文件，Web 设置面板可配置。</div>
@@ -217,7 +217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jjxjjjjiik-bot/dsh-chat-timeline</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav) as a DeepSeek Harness (DSH) plugin</div>
@@ -238,7 +238,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        22
+                                        23
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZSeven-W/dsh-noema</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fishquito7/dsh-skill-mcp-panel</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）</div>
@@ -344,7 +344,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        90
+                                        92
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
