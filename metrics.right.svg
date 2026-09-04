@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.2213494978185" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="290.2213494978185" y="0" width="98.34855563078673" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.5699051286052" y="0" width="39.03524183762178" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.60514696622704" y="0" width="11.131679522012488" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="438.7368264882395" y="0" width="8.257985551127492" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.994812039367" y="0" width="7.124550041533806" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="454.1193620809008" y="0" width="3.3715634473881444" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.490925528289" y="0" width="2.5090744717110294" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.1692803654191" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="290.1692803654191" y="0" width="98.33091074017723" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="388.50019110559634" y="0" width="39.0887845951055" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.58897570070184" y="0" width="11.129682367441116" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="438.71865806814293" y="0" width="8.278487255301805" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.9971453234447" y="0" width="7.123271813243431" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="454.12041713668816" y="0" width="3.3709585491480984" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.49137568583626" y="0" width="2.5086243141637175" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>11.8 MB</div>
-                                <div>63.09%</div>
+                                <div>63.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>1.59 MB</div>
-                                <div>8.49%</div>
+                                <div>8.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>336 kB</div>
+                                <div>337 kB</div>
                                 <div>1.8%</div>
                             </small>
                         </div>
@@ -217,7 +217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -291,7 +291,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        63
+                                        64
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
