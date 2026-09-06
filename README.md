@@ -69,6 +69,12 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
       <td width="32%" align="center" valign="middle">DeepSeek 余额与消耗,实时掌握。<br><sub>Keep an eye on your DeepSeek balance.</sub></td>
       <td width="42%" align="center" valign="middle"><img src="https://img.shields.io/badge/%E4%BD%99%E9%A2%9D%E7%9B%91%E6%8E%A7-56D364?style=flat" height="20" alt="余额监控"> <a href="https://github.com/HaoyueQin/dsh-deepseek-monitor/stargazers"><img src="https://img.shields.io/github/stars/HaoyueQin/dsh-deepseek-monitor?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="Stars"></a> <a href="https://www.npmjs.com/package/dsh-deepseek-monitor"><img src="https://img.shields.io/npm/dt/dsh-deepseek-monitor?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="Downloads"></a></td>
     </tr>
+    <tr>
+      <td width="3%" align="center" valign="middle"><strong>07</strong></td>
+      <td width="23%" align="center" valign="middle"><a href="https://github.com/HaoyueQin/dsh-git-review"><strong>DSH Git Review</strong></a></td>
+      <td width="32%" align="center" valign="middle">工作区改了什么,一页看清。<br><sub>See workspace changes in one tab.</sub></td>
+      <td width="42%" align="center" valign="middle"><img src="https://img.shields.io/badge/%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5-56D364?style=flat" height="20" alt="代码审查"> <a href="https://github.com/HaoyueQin/dsh-git-review/stargazers"><img src="https://img.shields.io/github/stars/HaoyueQin/dsh-git-review?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="Stars"></a> <a href="https://www.npmjs.com/package/dsh-git-review"><img src="https://img.shields.io/npm/dt/dsh-git-review?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="Downloads"></a></td>
+    </tr>
   </tbody>
 </table>
 <!-- 🧩 DeepSeek Harness 生态作品 | 结束 -->
