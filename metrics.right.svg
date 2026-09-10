@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.99671966360546" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="268.99671966360546" y="0" width="90.95446448962754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="359.95118415323304" y="0" width="53.95247048606035" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="413.90365463929334" y="0" width="22.194466812968667" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.09812145226203" y="0" width="10.294771929297728" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.3928933815597" y="0" width="6.588908495921114" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="452.98180187748085" y="0" width="3.9001172734090446" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.8819191508899" y="0" width="3.1180808491100573" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.19981521731347" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="267.19981521731347" y="0" width="90.34688651672174" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="357.5467017340352" y="0" width="56.146694217916995" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="413.6933959519522" y="0" width="22.5045629019124" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.1979588538646" y="0" width="10.226002609447093" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.4239614633117" y="0" width="6.544894431410074" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="452.96885589472174" y="0" width="3.9338921099500155" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.90274800467176" y="0" width="3.0972519953282323" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>11.8 MB</div>
-                                <div>58.48%</div>
+                                <div>58.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,8 +52,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.37 MB</div>
-                                <div>11.73%</div>
+                                <div>2.49 MB</div>
+                                <div>12.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,7 +65,7 @@
                             </div>
                             <small>
                                 <div>453 kB</div>
-                                <div>2.24%</div>
+                                <div>2.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,8 +76,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>171 kB</div>
-                                <div>0.85%</div>
+                                <div>174 kB</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>4 MB</div>
-                                <div>19.77%</div>
+                                <div>19.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,8 +102,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>976 kB</div>
-                                <div>4.82%</div>
+                                <div>997 kB</div>
+                                <div>4.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,7 +115,7 @@
                             </div>
                             <small>
                                 <div>290 kB</div>
-                                <div>1.43%</div>
+                                <div>1.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -127,7 +127,7 @@
                             </div>
                             <small>
                                 <div>137 kB</div>
-                                <div>0.68%</div>
+                                <div>0.67%</div>
                             </small>
                         </div>
                     </section>
@@ -164,7 +164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ileriayo/markdown-badges</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The largest curated collection of markdown badges for your personal developer branding, profile, and projects.</div>
@@ -217,7 +217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Coco-king/dsh-x-opencode-session</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -324,7 +324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
