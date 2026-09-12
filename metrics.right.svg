@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.98636735471297" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="265.98636735471297" y="0" width="89.9365896898053" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="355.92295704451834" y="0" width="56.82966909798616" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.7526261425045" y="0" width="23.451679905840294" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.2043060483448" y="0" width="10.179562753194617" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.38386880153945" y="0" width="6.515171775530686" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="452.89904057707014" y="0" width="4.0177731327393005" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.9168137098094" y="0" width="3.0831862901906395" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.48214725032574" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="265.48214725032574" y="0" width="89.7661003632559" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="355.24824761358167" y="0" width="57.59394355443665" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="412.8421911680183" y="0" width="23.407223460166858" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.24941462818515" y="0" width="10.160265748445545" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.40968037663066" y="0" width="6.502821215517292" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="452.912501592148" y="0" width="4.010156795073045" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.922658387221" y="0" width="3.0773416127789877" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>11.8 MB</div>
-                                <div>57.82%</div>
+                                <div>57.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,8 +52,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.53 MB</div>
-                                <div>12.35%</div>
+                                <div>2.57 MB</div>
+                                <div>12.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>4 MB</div>
-                                <div>19.55%</div>
+                                <div>19.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>1.04 MB</div>
-                                <div>5.1%</div>
+                                <div>5.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,7 +115,7 @@
                             </div>
                             <small>
                                 <div>290 kB</div>
-                                <div>1.42%</div>
+                                <div>1.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -217,7 +217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Coco-king/dsh-x-opencode-session</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -324,7 +324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
