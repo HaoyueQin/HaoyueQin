@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.5572490149957" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="264.5572490149957" y="0" width="89.45336932398136" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="354.01061833897705" y="0" width="58.9043166675726" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.9149350065497" y="0" width="23.390409200533224" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.30534420708295" y="0" width="10.124868973338252" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.43021318042116" y="0" width="6.480166404528336" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="452.9103795849495" y="0" width="4.0229997786409015" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.93337936359035" y="0" width="3.0666206364095934" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.42063601687516" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="264.42063601687516" y="0" width="89.40717708006882" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="353.82781309694394" y="0" width="59.11143586025117" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="412.9392489571951" y="0" width="23.378330779170557" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.3175797363657" y="0" width="10.119640658063673" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.43722039442935" y="0" width="6.47682015352165" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="452.91404054795095" y="0" width="4.020922367935866" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.93496291588684" y="0" width="3.065037084113075" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>11.8 MB</div>
-                                <div>57.51%</div>
+                                <div>57.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,8 +52,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.64 MB</div>
-                                <div>12.81%</div>
+                                <div>2.65 MB</div>
+                                <div>12.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>4 MB</div>
-                                <div>19.45%</div>
+                                <div>19.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,7 +164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ileriayo/markdown-badges</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The largest curated collection of markdown badges for your personal developer branding, profile, and projects.</div>
@@ -271,7 +271,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>K-Dense-AI/scientific-agent-skills</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</div>
@@ -292,7 +292,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        44.9k
+                                        45k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,7 +345,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        17.1k
+                                        17.2k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
