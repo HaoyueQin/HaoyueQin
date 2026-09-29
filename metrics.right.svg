@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.3796211363121" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="258.3796211363121" y="0" width="87.36456007669936" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="345.7441812130115" y="0" width="67.91477523977683" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="413.6589564527883" y="0" width="23.016996856015012" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.6759533088033" y="0" width="9.888445011906114" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.5643983207094" y="0" width="6.328849225399163" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="452.8932475461086" y="0" width="4.111739914433852" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.00498746054245" y="0" width="2.9950125394575546" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.3700235765209" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="258.3700235765209" y="0" width="87.36131490362698" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="345.7313384801479" y="0" width="67.9293393194489" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="413.6606777995968" y="0" width="23.016141885322796" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.67681968491956" y="0" width="9.8880777037499" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.56489738866946" y="0" width="6.32861413910024" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="452.8935115277697" y="0" width="4.11158718307872" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.0050987108484" y="0" width="2.9949012891515268" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>3.11 MB</div>
-                                <div>14.76%</div>
+                                <div>14.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -251,7 +251,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        5.30k
+                                        5.31k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Coco-king/dsh-x-opencode-session</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
