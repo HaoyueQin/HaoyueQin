@@ -90,12 +90,9 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
       <img src="https://raw.githubusercontent.com/HaoyueQin/HaoyueQin/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
     </td>
   </tr>
-</table>
-
-<!-- 🏅 GitHub 足迹 / GitHub Footprint：ghfind 评分卡 + metrics 成就卡并列 | 开始 -->
-<table align="center" width="100%">
+<!-- 🏅 GitHub 足迹 / GitHub Footprint：分类卡片 + star 增长曲线 | 开始 -->
   <tr>
-    <td align="center" width="50%" valign="middle">
+    <td align="center" width="50%" valign="top">
       <a href="https://ghfind.com/u/haoyueqin?ref=badge">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/haoyueqin?theme=dark" />
@@ -103,7 +100,7 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
         </picture>
       </a>
     </td>
-    <td align="center" width="50%" valign="middle">
+    <td align="center" width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/HaoyueQin/HaoyueQin/main/metrics.plugin.stargazers.svg?v=1" alt="Stargazers over time" width="100%">
     </td>
   </tr>
