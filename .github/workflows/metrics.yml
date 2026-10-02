@@ -63,6 +63,6 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 0
-          config_padding: 0, -75%
+          config_padding: 0, -23%
           config_timezone: Asia/Shanghai
           committer_message: "chore: update metrics.plugin.stargazers.svg [Skip GitHub Action]"
