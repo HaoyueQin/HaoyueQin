@@ -2,19 +2,17 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" valign="middle"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" valign="middle"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" valign="middle"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" valign="middle"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" valign="middle"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" valign="middle"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" valign="middle"> <img src="https://img.shields.io/badge/Gitee-%23C71D23.svg?style=flat-square&logo=gitee&logoColor=white" alt="Gitee" valign="middle">
+
+</div>
+
+<div align="center">
+
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 >
 > *"删繁就简三秋树"——完美不是无以复加，而是无可删减。*
 >
 > —— Antoine de Saint-Exupéry
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" valign="middle"> <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=flat-square&logo=opencode&logoColor=ffffff" alt="OpenCode" valign="middle"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" valign="middle"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" valign="middle"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" valign="middle"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" valign="middle"> <img src="https://img.shields.io/badge/Gitee-%23C71D23.svg?style=flat-square&logo=gitee&logoColor=white" alt="Gitee" valign="middle">
 
 </div>
 
@@ -115,12 +113,10 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
 </table>
 <!-- 🏅 GitHub 足迹 / GitHub Footprint | 结束 -->
 
-![](https://komarev.com/ghpvc/?username=HaoyueQin&color=4A90E2&style=flat-square)
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" valign="middle"> <img src="https://img.shields.io/badge/opencv-%23fff.svg?style=flat-square&logo=opencv&logoColor=black" alt="OpenCV" valign="middle"> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" valign="middle"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" valign="middle"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" valign="middle">
+<img src="https://komarev.com/ghpvc/?username=HaoyueQin&color=4A90E2&style=flat-square" alt="Profile views" valign="middle"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM" valign="middle"> <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=flat-square&logo=autocad&logoColor=white" alt="AutoCAD" valign="middle"> <img src="https://img.shields.io/badge/qgis-%23589632.svg?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" valign="middle"> <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" valign="middle">
 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" valign="middle"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" valign="middle"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" valign="middle"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM" valign="middle"> <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=flat-square&logo=autocad&logoColor=white" alt="AutoCAD" valign="middle"> <img src="https://img.shields.io/badge/qgis-%23589632.svg?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" valign="middle"> <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" valign="middle">
+<img src="https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" valign="middle"> <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=flat-square&logo=opencode&logoColor=ffffff" alt="OpenCode" valign="middle"> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" valign="middle"> <img src="https://img.shields.io/badge/opencv-%23fff.svg?style=flat-square&logo=opencv&logoColor=black" alt="OpenCV" valign="middle"> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" valign="middle"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" valign="middle"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" valign="middle">
 
 </div>
