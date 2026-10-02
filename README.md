@@ -92,4 +92,22 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
   </tr>
 </table>
 
+<!-- 🏅 GitHub 足迹 / GitHub Footprint：ghfind 评分卡 + metrics 成就卡并列 | 开始 -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://ghfind.com/u/haoyueqin?ref=badge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/haoyueqin?theme=dark" />
+          <img src="https://ghfind.com/api/card/mini/haoyueqin?theme=light" alt="GitHub Roast 评分卡" width="100%" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/HaoyueQin/HaoyueQin/main/metrics.plugin.achievements.svg?v=1" alt="GitHub Achievements" width="100%">
+    </td>
+  </tr>
+</table>
+<!-- 🏅 GitHub 足迹 / GitHub Footprint | 结束 -->
+
 ![](https://komarev.com/ghpvc/?username=HaoyueQin&color=4A90E2&style=flat-square)
