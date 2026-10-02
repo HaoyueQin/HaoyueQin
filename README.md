@@ -104,7 +104,7 @@ I'm @HaoyueQin, an undergraduate at BUAA's School of Transportation Science and 
       </a>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="https://raw.githubusercontent.com/HaoyueQin/HaoyueQin/main/metrics.plugin.achievements.svg?v=1" alt="GitHub Achievements" width="100%">
+      <img src="https://raw.githubusercontent.com/HaoyueQin/HaoyueQin/main/metrics.plugin.habits.svg?v=1" alt="Coding Habits" width="100%">
     </td>
   </tr>
 </table>
